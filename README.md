@@ -1,6 +1,6 @@
-# EaglercrackX - The biggest eaglercraft archive.
+# EaglercrackX 
 
-## FORK or DOWNLOAD or DEOPLOY this repository before it gets DMCA
+## FORK or DOWNLOAD (You do not have to change anything its fine)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/eaglercrack/eaglercrack.github.io)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Feaglercrack%2Feaglercrack.github.io)
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/eaglercrack/eaglercrack.github.io/)
